@@ -189,8 +189,6 @@ A dedicated KPI view ensures:
 
 ---
 
-## 📈 Dashboard Pages
-
 ### Executive Overview
 - Total hospitals
 - Average MSPB
